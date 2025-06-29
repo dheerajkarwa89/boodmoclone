@@ -17,10 +17,10 @@ const Footer: React.FC = () => {
           <div className="col-md-4 mb-3">
             <h6>Quick Links</h6>
             <ul className="list-unstyled">
-              <li><a href="#" className="text-white text-decoration-none">Home</a></li>
-              <li><a href="#" className="text-white text-decoration-none">My Orders</a></li>
-              <li><a href="#" className="text-white text-decoration-none">Support</a></li>
-              <li><a href="#" className="text-white text-decoration-none">Terms & Conditions</a></li>
+              <li><a href="https://google.com" className="text-white text-decoration-none">Home</a></li>
+              <li><a href="https://google.com" className="text-white text-decoration-none">My Orders</a></li>
+              <li><a href="https://google.com" className="text-white text-decoration-none">Support</a></li>
+              <li><a href="https://google.com" className="text-white text-decoration-none">Terms & Conditions</a></li>
             </ul>
           </div>
 
