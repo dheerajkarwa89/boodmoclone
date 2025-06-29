@@ -2,7 +2,6 @@ import React from 'react';
 import Header from './components/Header';
 import CarSelector from './components/CarSelector';
 import ProductGrid from './components/ProductGrid';
-import ProductCard from './components/ProductCard';
 import Footer from './components/Footer';
 import FilterSidebar from './components/FilterSidebar';
 import { useState } from 'react';
