@@ -30,3 +30,4 @@ jobs:
           --region ${{ secrets.GCP_REGION }} \
           --platform managed \
           --allow-unauthenticated
+          --quiet
